@@ -7,20 +7,20 @@ layout: default
 
 ## Dashboard
 
-![Branching](https://docs.spark3d.io/assets/images/spark00.png)
+![Branching](https://cdn.magicfirm.com/images/spark00.png-q75)
 
 ## Printer management
-![Branching](https://docs.spark3d.io/assets/images/spark01.png)
+![Branching](https://cdn.magicfirm.com/images/spark01.png-q75)
 
-![Branching](https://docs.spark3d.io/assets/images/spark02.png)
+![Branching](https://cdn.magicfirm.com/images/spark02.png-q75)
 
 ## Design Management
-![Branching](https://docs.spark3d.io/assets/images/spark03.png)
+![Branching](https://cdn.magicfirm.com/images/spark03.png-q75)
 
 ## Printing Operate
-![Branching](https://docs.spark3d.io/assets/images/spark04.png)
+![Branching](https://cdn.magicfirm.com/images/spark04.png-q75)
 
 ## Task Management
-![Branching](https://docs.spark3d.io/assets/images/spark05.png)
+![Branching](https://cdn.magicfirm.com/images/spark05.png-q75)
 
 
