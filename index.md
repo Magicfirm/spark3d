@@ -5,20 +5,22 @@ layout: default
 ..
 
 
-## 用户空间
+## Dashboard
 
-![Branching](https://docs.spark3d.io/assets/images/Spark00.png)
+![Branching](https://docs.spark3d.io/assets/images/spark00.png)
 
-## 打印机管理
-![Branching](https://docs.spark3d.io/assets/images/Spark01.png)
+## Printer management
+![Branching](https://docs.spark3d.io/assets/images/spark01.png)
 
-## 设计管理
-![Branching](https://docs.spark3d.io/assets/images/Spark02.png)
+![Branching](https://docs.spark3d.io/assets/images/spark02.png)
 
-## 打印操作
-![Branching](https://docs.spark3d.io/assets/images/Spark03.png)
+## Design Management
+![Branching](https://docs.spark3d.io/assets/images/spark03.png)
 
-## 任务管理
-![Branching](https://docs.spark3d.io/assets/images/Spark04.png)
+## Printing Operate
+![Branching](https://docs.spark3d.io/assets/images/spark04.png)
+
+## Task Management
+![Branching](https://docs.spark3d.io/assets/images/spark05.png)
 
 
